@@ -1,0 +1,5 @@
+# Ignora toate fisierele cu extensia php
+*.php
+
+# Ignora directorul uploads
+uploads/
